@@ -10,7 +10,7 @@ This project tracks the real time locations of the buses of MBTA route 1. You wi
  2. Open the HTML with web browser and click "Track bus" button.  
 
 
-**Roadmap of future improvements:** 
+**Roadmap of future improvements:**  
 Could add more buttons for different bus rout and also include direction information.   
 
 
