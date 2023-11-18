@@ -1,16 +1,14 @@
-**Title of the project: Real Time Bus Tracker**  
+**Title of the project: Real Time Bus Tracker**      
 Description of the project: 
-
-
 This project tracks the real time locations of the buses of MBTA route 1. You will need to get your own API key from mapbox.com to see the actual map.
 
 
-**How to Run:**   
+**How to Run:**        
  1. Replace *** in the mapanimation.js file with your own API key from mapbox.com  
  2. Open the HTML with web browser and click "Track bus" button.  
 
 
-**Roadmap of future improvements:**  
+**Roadmap of future improvements:**      
 Could add more buttons for different bus rout and also include direction information.   
 
 
